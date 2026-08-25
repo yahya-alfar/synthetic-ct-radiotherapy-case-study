@@ -271,6 +271,17 @@ The workflow was designed so that **data decisions, model experiments, and evalu
 
 ---
 
+## Technical Documentation
+
+For a deeper technical view of the project:
+
+- [Experimental History](docs/experiments.md) — model-development sequence, hypotheses, configurations, outcomes, and model-selection decisions
+- [Evaluation & Failure Analysis](docs/evaluation.md) — image-level metrics, tissue-level analysis, coverage review, and failure interpretation
+- [Methodology](docs/methodology.md) — data curation, MRI/CT review, quality-control strategy, frozen splits, and research workflow design
+- [Scientific References](docs/references.md) — selected literature informing the scientific context and evaluation framework
+
+---
+
 ## Core Technical Areas
 
 **Machine Learning:** Python · PyTorch · Med2Transformer · Fine-Tuning · Transfer Learning · Controlled Experimentation
